@@ -1,0 +1,34 @@
+body {
+    background-size: cover;
+}
+
+#Next2 {
+    font-family: 'Audiowide', cursive;
+    background-color: rgb(14, 226, 25);
+    border-radius: 10%;
+    font-size: 25px;
+    float: right;
+}
+
+#Back1 {
+    font-family: 'Audiowide', cursive;
+    background-color: rgb(226, 14, 14);
+    border-radius: 10%;
+    font-size: 25px;
+    float: Left;
+}
+
+#title {
+    font-family: 'Audiowide', cursive;
+    background-color: goldenrod;
+    border-radius: 10%;
+    font-size: 50px;
+}
+
+#text1 {
+    font-size: 12;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(22, 22, 22);
+    border-radius: 10%;
+    color: aliceblue;
+}
